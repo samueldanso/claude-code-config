@@ -1,6 +1,6 @@
 ---
 name: planning-with-files
-description: Transforms workflow to use Manus-style persistent markdown files for planning, progress tracking, and knowledge storage. Use when starting complex tasks, multi-step projects, research tasks, or when the user mentions planning, organizing work, tracking progress, or wants structured output.
+description: Persistent markdown files for planning, research, and knowledge storage. Use for research tasks, complex planning, or when user mentions organizing work or wants structured output. NOT for feature implementation — use /rigorous-coding for that.
 ---
 
 # Planning with Files
@@ -142,7 +142,7 @@ Every error goes in the "Errors Encountered" section. This builds knowledge for 
 
 | Don't | Do Instead |
 |-------|------------|
-| Use TodoWrite for persistence | Create `task_plan.md` file |
+| State goals only in TodoWrite (volatile) | Also persist in `task_plan.md` file |
 | State goals once and forget | Re-read plan before each decision |
 | Hide errors and retry | Log errors to plan file |
 | Stuff everything in context | Store large content in files |
