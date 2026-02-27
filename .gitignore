@@ -23,7 +23,8 @@ hooks/todo-enforcer.config.json
 settings.json
 settings.local.json
 
-# Include this gitignore and readme
+# Include scripts and docs
 !.gitignore
 !README.md
 !INSTALL.md
+!install.sh
