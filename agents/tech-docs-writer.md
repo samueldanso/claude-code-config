@@ -34,6 +34,7 @@ Create documentation that is accurate, comprehensive, and genuinely useful. Exec
 - Maintain consistency with established documentation style
 - Adhere to project-specific naming, structure, and style conventions
 - Study `git log` to match repository's commit style when creating commits
+- Do not add "Co-Authored-By: Claude" or similar attribution when creating git commits
 
 ### 4. VERIFICATION-DRIVEN DOCUMENTATION
 

@@ -404,6 +404,10 @@ Never start responses with "Great question!", "That's a really good idea!", or a
 | **Frontend** | Direct edit to visual/styling code (logic changes OK) |
 | **Debugging** | Shotgun debugging, random changes |
 
+## Git commits
+
+Do not add "Co-Authored-By: Claude" or similar attribution when creating git commits.
+
 ## Soft Guidelines
 
 - Prefer existing libraries over new dependencies
